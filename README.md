@@ -1,8 +1,8 @@
-# **bayes-ode-mcmc**  
+# **bayesic-ode-mcmc**  
 *A Python package for Bayesian inference on ODE systems using MCMC sampling algorithms*  
 
 ## **Overview**  
-`bayes-ode-mcmc` is a Python package that performs **Bayesian parameter estimation** for **Ordinary Differential Equation (ODE) systems** using **Markov Chain Monte Carlo (MCMC) sampling**. The package provides an easy-to-use interface for defining ODE models, specifying priors, and applying **Slice Sampling** and **Metropolis-Hastings (MH) algorithms** to infer unknown parameters.  
+`bayesic-ode-mcmc` is a Python package that performs **Bayesian parameter estimation** for **Ordinary Differential Equation (ODE) systems** using **Markov Chain Monte Carlo (MCMC) sampling**. The package provides an easy-to-use interface for defining ODE models, specifying priors, and applying **Slice Sampling** and **Metropolis-Hastings (MH) algorithms** to infer unknown parameters.  
 
 ## **Features**  
 ✅ Define custom ODE models using Python functions  
@@ -15,4 +15,4 @@
 ## **Installation**  
 Install the package using pip:  
 ```bash
-pip install bayes-ode-mcmc
+pip install bayesic-ode-mcmc

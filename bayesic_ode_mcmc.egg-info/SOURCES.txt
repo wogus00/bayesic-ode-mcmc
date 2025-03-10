@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+bayesic_ode_mcmc.egg-info/PKG-INFO
+bayesic_ode_mcmc.egg-info/SOURCES.txt
+bayesic_ode_mcmc.egg-info/dependency_links.txt
+bayesic_ode_mcmc.egg-info/top_level.txt
